@@ -1,0 +1,389 @@
+   50  mkdir Fintech-Workspace
+   51  ls
+   52  cd fintech-workspace
+   53  ls
+   54  cd ..
+   55  cd ~
+   56  ls
+   57  cd dropbox
+   58  ls
+   59  cd Fintech-Workspace
+   60  ls
+   61  Python_Project
+   62  cd python_project
+   63  ls
+   64  conda activate dev
+   65  python --version
+   66  code .
+   67  python hello_python.py
+   68  python hello_python.py
+   69  ls
+   70  cd dropbox
+   71  ls
+   72  cd fintech-workspace
+   73  ls
+   74  cd python_project
+   75  ls
+   76  python M1L3.py
+   77  code .
+   78  ls
+   79  python M1L3.py
+   80  conda activate dev
+   81  python M1L3.py
+   82  python M1L3.py
+   83  python hello_variable_world.py
+   84  ls
+   85  cd 01_hello_variable_world
+   86  ls
+   87  cd unsolved
+   88  ls
+   89  python hello_variable_world.py
+   90  python hello_variable_world.py
+   91  python hello_variable_world.py
+   92  python hello_variable_world.py
+   93  python hello_variable_world.py
+   94  python hello_variable_world.py
+   95  cd ..
+   96  cd ..
+   97  ls
+   98  cd 02_listing_assets
+   99  pythong 02_listing_assets
+  100  python 02_listing_assets
+  101   python 02_listing_assets.py
+  102  ls
+  103  cd unsolved
+  104  ls
+  105  python listing_assets.py
+  106  python listing_assets.py
+  107  python listing_assets.py
+  108  python listing_assets.py
+  109  python listing_assets.py
+  110  cd ..
+  111  cd ..
+  112  ls
+  113  cd 03_the_401k_shuffle
+  114  ls
+  115  cd unsolved
+  116  ls
+  117  python the_401k_shuffle.py
+  118  python the_401k_shuffle.py\n
+  119  python the_401k_shuffle.py\n
+  120  python the_401k_shuffle.py\n
+  121  python the_401k_shuffle.py
+  122  python the_401k_shuffle.py
+  123  python the_401k_shuffle.py
+  124  python the_401k_shuffle.py
+  125  cd ..
+  126  cd .
+  127  cd ..
+  128  ls
+  129  cd 01_Conditional_statement
+  130  cd unsolved
+  131  ls
+  132  python conditional_statement.py
+  133  python conditional_statement.py
+  134  python conditional_statement.py
+  135  python conditional_statement.py
+  136  cd ..
+  137  cd ..
+  138  ls
+  139  cd 02_nested_conditionals
+  140  cd unsolved
+  141  ls
+  142  python nested_conditionals.py
+  143  cd ..
+  144  cd ..
+  145  ls
+  146  cd \t03_Split_Second_Homebuying
+  147  cd unsolved
+  148  ls
+  149  python split_second_homebuying.py
+  150  python split_second_homebuying.py
+  151  python split_second_homebuying.py
+  152  python split_second_homebuying.py
+  153  python split_second_homebuying.py
+  154  python split_second_homebuying.py
+  155  cd ..
+  156  cd ..
+  157  ls
+  158  cd 01_A_Definitive_buy
+  159  cd unsolved
+  160  ls
+  161  python a_definitive_buy.py
+  162  ls
+  163  cd ..
+  164  cd ..
+  165  ls
+  166  cd 02_Returned_Goods
+  167  cd unsolved
+  168  ls
+  169  cd returned_goods.py
+  170  python returned_goods.py
+  171  python returned_goods.py
+  172  python returned_goods.py
+  173  python returned_goods.py
+  174  cd ..
+  175  cd ..
+  176  ls
+  177  cd 03_split_second_homebuying_part_2
+  178  cd unsolved
+  179  ls
+  180  python split_second_part_2.py
+  181  python split_second_part_@.py
+  182  python split_second_part_2.py
+  183  python split_second_part_2.py
+  184  python split_second_part_2.py
+  185  python split_second_part_2.py
+  186  python split_second_part_2.py
+  187  python split_second_part_2.py
+  188  python split_second_part_2.py
+  189  python split_second_part_2.py
+  190  python split_second_part_2.py
+  191  cd ..
+  192  cd ..
+  193  ls
+  194  cd 01_racking_up_the_profit
+  195  cd unsolved
+  196  ls
+  197  python racking_up_the_profit.py
+  198  python racking_up_the_profit.py
+  199  python racking_up_the_profit.py
+  200  python racking_up_the_profit.py
+  201  python racking_up_the_profit.py
+  202  cd ..
+  203  cd ..
+  204  ls
+  205  cd ..
+  206  ls
+  207  cd in_class_exercise
+  208  ls
+  209  cd week_2_class_1_activities 2
+  210  cd week_2_class_1_activities_2
+  211  ls
+  212  cd 01_Stu_Python_Code_Drills
+  213  ls
+  214  cd unsolced
+  215  cd unsolved
+  216  ls
+  217  cd ..
+  218  ls
+  219  cd ..
+  220  ls
+  221  cd ..
+  222  cd ..
+  223  ;s
+  224  ls
+  225  cd python_project
+  226  ls
+  227  02_pathways_to_success_part_1
+  228  cd 02_pathways_to_success_part_1
+  229  ls
+  230  cd unsolved
+  231  ls
+  232  python 02_pathways_to_success_part_1
+  233  python 02_pathways_to_success_part_1.py
+  234  python pathways_to_success_part_1.py
+  235  python pathways_to_success.py
+  236  python pathways_to_success.py
+  237  python pathways_to_success.py
+  238  python pathways_to_success.py
+  239  python pathways_to_success.py
+  240  pwd
+  241  cd ..
+  242  cd ..
+  243  cd ..
+  244  ls
+  245  git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  246  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  247  ls
+  248  cd python_project
+  249  ls
+  250  03_pathways_to_success_part_2
+  251  cd \t03_Pathways_to_Success_Part_2
+  252  ls
+  253  cd unsolved
+  254  ls
+  255  conda activate dev
+  256  python pathways_to_success_part_2.py
+  257  python pathways_to_success_part_2.py
+  258  python pathways_to_success_part_2.py
+  259  cd ..
+  260  cd ..
+  261  cd ..
+  262  ls
+  263  cd 01_Microcredit_Loans
+  264  ls
+  265  cd starter_code
+  266  ls
+  267  python loan_analyzer.py
+  268  python loan_analyzer.py
+  269  python loan_analyzer.py
+  270  python loan_analyzer.py
+  271  python loan_analyzer.py
+  272  python loan_analyzer.py
+  273  python loan_analyzer.py
+  274  python loan_analyzer.py
+  275  python loan_analyzer.py
+  276  python loan_analyzer.py
+  277  python loan_analyzer.py
+  278  python loan_analyzer.py
+  279  python loan_analyzer.py
+  280  python loan_analyzer.py
+  281  python loan_analyzer.py
+  282  python loan_analyzer.py
+  283  python loan_analyzer.py
+  284  python loan_analyzer.py
+  285  python loan_analyzer.py
+  286  python loan_analyzer.py
+  287  python loan_analyzer.py
+  288  python loan_analyzer.py
+  289  python loan_analyzer.py
+  290  python loan_analyzer.py
+  291  python loan_analyzer.py
+  292  python loan_analyzer.py
+  293  python loan_analyzer.py
+  294  python loan_analyzer.py
+  295  python loan_analyzer.py
+  296  python loan_analyzer.py
+  297  python loan_analyzer.py
+  298  python loan_analyzer.py
+  299  python loan_analyzer.py
+  300  python loan_analyzer.py
+  301  python loan_analyzer.py
+  302  python loan_analyzer.py
+  303  python loan_analyzer.py
+  304  python loan_analyzer.py
+  305  python loan_analyzer.py
+  306  python loan_analyzer.py
+  307  python loan_analyzer.py
+  308  python loan_analyzer.py
+  309  python loan_analyzer.py
+  310  python loan_analyzer.py
+  311  python loan_analyzer.py
+  312  python loan_analyzer.py
+  313  python loan_analyzer.py
+  314  python loan_analyzer.py
+  315  python loan_analyzer.py
+  316  python loan_analyzer.py
+  317  python loan_analyzer.py
+  318  python loan_analyzer.py
+  319  python loan_analyzer.py
+  320  python loan_analyzer.py
+  321  python loan_analyzer.py
+  322  python loan_analyzer.py
+  323  python loan_analyzer.py
+  324  python loan_analyzer.py
+  325  python loan_analyzer.py
+  326  python loan_analyzer.py
+  327  python loan_analyzer.py
+  328  python loan_analyzer.py
+  329  python loan_analyzer.py
+  330  python loan_analyzer.py
+  331  python loan_analyzer.py
+  332  python loan_analyzer.py
+  333  python loan_analyzer.py
+  334  python loan_analyzer.py
+  335  python loan_analyzer.py
+  336  python loan_analyzer.py
+  337  python loan_analyzer.py
+  338  python loan_analyzer.py
+  339  python loan_analyzer.py
+  340  python loan_analyzer.py
+  341  python loan_analyzer.py
+  342  python loan_analyzer.py
+  343  python loan_analyzer.py
+  344  python loan_analyzer.py
+  345  python loan_analyzer.py
+  346  python loan_analyzer.py
+  347  python loan_analyzer.py
+  348  python loan_analyzer.py
+  349  python loan_analyzer.py
+  350  python loan_analyzer.py
+  351  python l
+  352  python loan_analyzer.py
+  353  python loan_analyzer.py
+  354  python loan_analyzer.py
+  355  python loan_analyzer.py
+  356  python loan_analyzer.py
+  357  python loan_analyzer.py
+  358  python loan_analyzer.py
+  359  python loan_analyzer.py
+  360  python loan_analyzer.py
+  361  python loan_analyzer.py
+  362  cd ..
+  363  cd ..
+  364  ls
+  365  pip -V
+  366  pip freeze
+  367  pip install fire
+  368  pip install questionary
+  369  git config --global username KevinBaRoss
+  370  git config --global user.name KevinBaRoss
+  371  git config --global user.email kevin_bhayakaporn@berkeley.edu
+  372  git config --list
+  373  ls
+  374  git clone https://github.com/kevinbaross/Test_Repo.git
+  375  git status
+  376  ls
+  377  cd Test_Repo
+  378  git status
+  379  git add README.md
+  380  git status
+  381  git status
+  382  git status
+  383  git add readme.md
+  384  git status
+  385  touch new_file.txt
+  386  ls
+  387  git status
+  388  git add new_file.txt
+  389  git status
+  390  git commit -, "edited readme and added new text file"
+  391  git commit -m "Edited readme and added new text file"
+  392  git status
+  393  git push
+  394  cd ..
+  395  ls
+  396  cd 02_Loan_Qualifier_App
+  397  ls
+  398  cd loan_qualifier_app
+  399  ls
+  400  python app.py
+  401  data/daily_rate_sheet.csv
+  402  ./data/daily_rate_sheet.csv
+  403  python app.py
+  404  python app.py
+  405  python app.py
+  406  python app.py
+  407  run app.py
+  408  python app.py
+  409  python app.py
+  410  python app.py
+  411  python app.py
+  412  python app.py
+  413  python app.py
+  414  python app.py
+  415  python app.py
+  416  python app.py
+  417  python app.py
+  418  python app.py
+  419  python app.py
+  420  python app.py
+  421  python app.py
+  422  python app.py
+  423  python app.py
+  424  python app.py
+  425  pyton app.py
+  426  python app.py
+  427  git config --list
+  428  git clone https://github.com/kevinbaross/challenge02_loan_qualifier_app.git
+  429  got config --list
+  430  git config --list
+  431  git clone https://github.com/kevinbaross/challenge02_loan_qualifier_app.git
+  432  ls
+  433  cd challenge02_loan_qualifier_app
+  434  ls
+  435  python app.py
+  436  python app.py
+  437  git push
+  438  history 50 > terminal_history.txt
