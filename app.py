@@ -107,7 +107,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 def save_qualifying_loans(qualifying_loans):
 
     # This will ask the user whether he/she wants to save the qualifying loans.
-    want_to_save = questionary.text("Do you want to save your qualifying loans? Please enter Yes or No only.").ask()
+    want_to_save = questionary.text("Do you want to save your qualifying loans? Please enter yes or no only (Case sensitive).").ask()
 
     if want_to_save == "yes":
 
